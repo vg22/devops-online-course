@@ -1,5 +1,5 @@
 ---
-title: 📊 Learn Data Science
+title: 📊 Devops
 linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
@@ -14,13 +14,19 @@ tags:
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Fundamental of Cloud and DevOps
+- 
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+DevOps is the combination of approaches, practices, and tools that
+optimises an organisation’s ability to deliver services and applications
+at high velocity and scale. It helps create and improve products faster
+and more reliably than traditional software development and
+deployment. Take concrete steps to build, test, and maintain coherent
+software releases that are quick, reliable, scalable, and adapt to
+ever-changing IT needs
+
 
 ## Courses in this program
 
