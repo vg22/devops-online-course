@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳恩達
+title: Jagdeep Bains
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Jagdeep Bains
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: Instructor
 
 # Organizations/Affiliations
 organizations:
@@ -41,16 +41,16 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+# social:
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:test@example.org'
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/GeorgeCushen
+#   - icon: github
+#     icon_pack: fab
+#     link: https://github.com/gcushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

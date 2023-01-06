@@ -1,7 +1,7 @@
 ---
 title: 📊 Devops
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Fundamentals of DevOps
 date: '2021-01-24'
 type: book
 tags:
@@ -28,7 +28,7 @@ software releases that are quick, reliable, scalable, and adapt to
 ever-changing IT needs
 
 
-## Courses in this program
+## Modules in this program
 
 {{< list_children >}}
 
