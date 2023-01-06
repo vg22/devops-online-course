@@ -59,7 +59,7 @@ advanced:
           <li> Containers (Docker)</li>
           <li>Configuration Management (Ansible)</li>
           <li>The Big Picture: CI/CD Pipelines</li>
-          <li>What is Jenkins?</li>
+          <li>Jenkins</li>
           <li>AWS Fundamentals</li>
           <li>KeyStone Project</li>
 </ul>
